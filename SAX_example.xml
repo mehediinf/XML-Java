@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<employees>
+    <employee id="1">
+        <name>John Doe</name>
+        <age>30</age>
+        <position>Developer</position>
+    </employee>
+    <employee id="2">
+        <name>Jane Smith</name>
+        <age>25</age>
+        <position>Designer</position>
+    </employee>
+</employees>
